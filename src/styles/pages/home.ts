@@ -28,6 +28,7 @@ export const Product = styled('a', {
     bottom: '0.25rem',
     left: '0.25rem',
     right: '0.25rem',
+    padding: '2rem',
 
     borderRadius: 6,
 
@@ -42,6 +43,7 @@ export const Product = styled('a', {
 
     strong: {
       fontSize: '$lg',
+      color: '$gray100'
     },
 
     span: {
